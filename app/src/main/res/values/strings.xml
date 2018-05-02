@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">JPicsLibrary</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">/@username</string>
+    <string name="likes">likes</string>
+    <string name="image_show">image_show</string>
+    <string name="image_thumb">image_thumb</string>
+    <string name="likes_image">likes_image</string>
 </resources>
