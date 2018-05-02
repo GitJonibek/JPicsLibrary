@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         setSupportActionBar(mToolBar);
-        Objects.requireNonNull(getSupportActionBar()).setTitle("Pin Pictures");
+        //Objects.requireNonNull(getSupportActionBar()).setTitle("Pin Pictures");
         JPics.Config.setCacheCapacity(15);
 
 
