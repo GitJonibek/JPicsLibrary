@@ -26,7 +26,7 @@ class DownloadManager {
     }
 
     private Map<String, DownloadImageAsyncTask> tasks = new HashMap<>();
-    private Map<String, DownloadFileAsyncTask> file_tasks = new HashMap<>();
+
     private Cache cache = new Cache();
 
     private DownloadManager() {
